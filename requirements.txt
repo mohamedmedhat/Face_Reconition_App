@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+streamlit-option-menu
+streamlit-modal
+opencv-python-headless
+numpy
+pandas
+tensorflow
+Pillow
