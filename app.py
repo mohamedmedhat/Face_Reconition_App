@@ -88,7 +88,7 @@ elif way == "Record a video":
             )
 
 st.markdown("""
-    <footer style="font-size: 14px; text-align: center; padding-top: 20px; color: #777;text-shadow: 1px 1px 3px #777;">
+    <footer style="font-size: 14px; text-align: center; padding-top: 20px; color: white;text-shadow: 1px 1px 3px white;">
         Created by Mohamed Medhat Elnggar
     </footer>
 """, unsafe_allow_html=True)
